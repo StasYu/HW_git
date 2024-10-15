@@ -1,7 +1,7 @@
-import random 
+import random
 
 def main():
     print(random.randrange(100))
     
-if name == '__main__'"
+if __name__ == 'main':
     main()
